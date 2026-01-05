@@ -75,14 +75,6 @@ The project uses the following key tables:
 5.  **Run the App**
     * Open your browser and navigate to: `http://localhost/findit/index.php`
 
-## 📸 Screenshots
-
-*(Add your screenshots here. You can upload images to your repo and link them)*
-
-| Home Page | Food Offers | User Profile |
-|:---:|:---:|:---:|
-| ![Home](path/to/image.png) | ![Food](path/to/image.png) | ![Profile](path/to/image.png) |
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request for any feature updates or bug fixes.
@@ -92,4 +84,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Akib zawayed
